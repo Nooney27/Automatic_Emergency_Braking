@@ -1,4 +1,5 @@
 # Lab 2: Automatic Emergency Braking
+[Screencast_from_05-02-2024_053003_PM.webm](https://github.com/Nooney27/Automatic_Emergency_Braking/assets/114221233/f462a239-7575-4ab2-923a-9b6d9870d5da)
 
 ## I. Learning Goals
 
